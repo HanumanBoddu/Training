@@ -1,0 +1,1 @@
+console.log('Welcome to Employee Attendence and Wage Calculation');
